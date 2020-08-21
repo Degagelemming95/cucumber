@@ -97,7 +97,7 @@
             "optional": false
           }
       },
-      "class": "\\adeynes\\cucumber\\command\\RawtellCommand",
+      "class": "\\adeynes\\cucumber\\command\\WarnCommand",
       "usage": "/warn <player> <message>"
     },
 
