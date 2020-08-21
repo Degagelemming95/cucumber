@@ -75,7 +75,7 @@ permissions:
     default: op
     children:
       cucumber.command.warn:
-        description: "Allows for the use of /rawtell"
+        description: "Allows for the use of /warn"
         default: op
 
       cucumber.mute:
